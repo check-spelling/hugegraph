@@ -697,7 +697,7 @@ public final class TraversalUtil {
         return validValue;
     }
 
-    public static void retriveSysprop(List<HasContainer> hasContainers,
+    public static void retrieveSysprop(List<HasContainer> hasContainers,
                                       Function<HasContainer, Boolean> func) {
         for (Iterator<HasContainer> iter = hasContainers.iterator();
              iter.hasNext();) {
