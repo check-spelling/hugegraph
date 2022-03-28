@@ -56,7 +56,7 @@ We have checked and believe the name is [suitable](https://github.com/hugegraph/
 
 #### Relationship with Titan/Janus Graph
 
-In the early stage of the project, we referred to the storage structure of Titan/Janus Graph, some folks thought that HugeGraph was forked from Titan/Janus. In fact, HugeGraph is not based on these projects. HugeGraph is developed completely from scratch and in the process it addressed many new challenges. Certainly, the project was inspired by Titan/Janus and we are really gratitious for such inspirations.
+In the early stage of the project, we referred to the storage structure of Titan/Janus Graph, some folks thought that HugeGraph was forked from Titan/Janus. In fact, HugeGraph is not based on these projects. HugeGraph is developed completely from scratch and in the process it addressed many new challenges. Certainly, the project was inspired by Titan/Janus and we are really gratuitous for such inspirations.
 
 ### Orphaned products
 
